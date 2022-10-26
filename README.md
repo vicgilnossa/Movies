@@ -1,6 +1,6 @@
-# Swipers and slivers movvie app
+# Swipers and slivers movie app
 
-A new Flutter project.
+Movie app to practice with API's and some interesting transitions typical of Flutter and creation of reusable widgets. It contains modules with various widgets in action that can be replicated for other projects.
 
 ## Getting Started
 
